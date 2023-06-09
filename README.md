@@ -1,3 +1,5 @@
+![Social Preview](https://github.com/mateoniksic/project-finance-manager/assets/57192709/95da51a5-ae13-40d8-94a8-0507f3be7775)
+
 # What is Finance Manager?
 Finance Manager is a user-friendly application designed to simplify personal finance management. It enables users to easily view all their transactions and bank accounts in one place, providing a convenient way to stay on top of their finances. With automatic recording of transactions from multiple banks and payment processors, users can effortlessly track their expenses and stay informed of upcoming payments. The application also offers useful features such as expense categorization and basic statistics, providing users with valuable insights into their spending habits. Setting financial goals is made simple, as is creating portfolios and monitoring real-time cryptocurrency prices. Finance Manager caters to all adult consumers who are technologically savvy and seeking an efficient way to manage their finances.
 

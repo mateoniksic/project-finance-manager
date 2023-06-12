@@ -8,3 +8,5 @@ Finance Manager is a user-friendly application designed to simplify personal fin
 
 # Sneak peak
 ![Case Study](https://user-images.githubusercontent.com/57192709/226437191-453bc0eb-cbf7-417e-be28-5105b4d241fd.png)
+![Questionnaire](https://github.com/mateoniksic/project-finance-manager/assets/57192709/b2400800-085b-4570-af38-5965a6695c40)
+![Questionnaire Answers](https://github.com/mateoniksic/project-finance-manager/assets/57192709/466010f6-0fcb-4957-ba7e-dc1f715f9ed1)
